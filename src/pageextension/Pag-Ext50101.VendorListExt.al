@@ -1,4 +1,4 @@
-pageextension 50101 VendorListExt extends "Vendor List"
+pageextension 50101 "VendorListExt" extends "Vendor List"
 {
     layout
     {

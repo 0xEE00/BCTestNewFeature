@@ -3,7 +3,7 @@ interface ISportsEvaluation
     procedure GetEvaluation(): Text;
 }
 
-codeunit 50100 Basketball implements ISportsEvaluation
+codeunit 50100 "Basketball" implements ISportsEvaluation
 {
     procedure GetEvaluation(): Text
     begin
